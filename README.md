@@ -14,6 +14,5 @@ To run, download/clone this repo, and then run discordchatbot.py
 ```
 Install Problems
 ```
-To install a library:
 
 pip3 install <name>
