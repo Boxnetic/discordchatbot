@@ -18,3 +18,10 @@ To run, download/clone this repo, and then run discordchatbot.py
 ```
 pip3 install <name>
 ```
+
+**NOTE**
+
+```
+Put your discord token on line 126!!
+If you do not know how to retrive your discord token, please look it up.
+```
